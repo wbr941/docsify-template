@@ -1,2 +1,3 @@
 - [Python笔记](README)
+- [Pygame](pygame)
 - [其他](second-page)
