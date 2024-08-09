@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Python笔记](README)
+- [其他](second-page)
